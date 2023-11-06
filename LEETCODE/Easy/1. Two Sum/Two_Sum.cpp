@@ -2,6 +2,8 @@
     May / 09 / 2023
     1. Two Sum
     ""Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.""
+
+    Runtime: 13ms Memory: 10.73mb
 */
 
 class Solution {

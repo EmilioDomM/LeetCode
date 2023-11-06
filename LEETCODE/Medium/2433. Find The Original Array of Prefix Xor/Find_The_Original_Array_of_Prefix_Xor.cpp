@@ -3,6 +3,7 @@
     2433. Find The Original Array of Prefix Xor
     ""You are given an integer array pref of size n. Find and return the array arr of size n that satisfies""
 
+    Runtime: 100ms  Memory. 79.49mb
 */
 
 class Solution {
